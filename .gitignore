@@ -1,0 +1,12 @@
+#Binary Directory
+/.idea
+/target
+
+#Intellij Files
+*.iml
+*.eml
+*.userlibraries
+
+#STS Files
+*.project
+*.classpath
